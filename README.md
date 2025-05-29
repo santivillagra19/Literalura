@@ -68,38 +68,7 @@ literatura
     - **pom.xml**: Archivo de configuración de Maven.
     - **README.md**: Archivo de documentación del proyecto.
 
-## Configuración y Ejecución
 
-### Requisitos Previos
 
-- Java 11 o superior
-- Maven
 
-### Pasos para Ejecutar la Aplicación
-
-1. Clona el repositorio:
-   ```sh
-git@github.com:castleortiz1/LiterAlutaLatam.git
-   ```
-
-2. Compila y ejecuta la aplicación usando Maven:
-   ```sh
-   ./mvnw spring-boot:run
-   ```
-
-3. La aplicación estará disponible en `http://localhost:8080`.
-
-## Contribución
-
-Si deseas contribuir al proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una rama para tu nueva característica (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y haz commit (`git commit -am 'Añadir nueva característica'`).
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
-5. Abre un Pull Request.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
